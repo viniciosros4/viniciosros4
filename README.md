@@ -10,7 +10,7 @@ C++, HTML, CSS, e ferramentas de visualização de dados como Power BI.
 Projetos de desenvolvimento web, especialmente aqueles que utilizam Bootstrap e Excel.
 
 ## 📫 How to reach me 
-[LinkedIn](www.linkedin.com/in/vinicios-rosa-182360351) | [Email](viniciosrd.dev@hotmail.com)
+Linkedin: www.linkedin.com/in/vinicios-rosa-182360351 |E-mail: viniciosrp.dev@hotmail.com
 
 ## 😄 Pronouns: 
 Ele/Dele
